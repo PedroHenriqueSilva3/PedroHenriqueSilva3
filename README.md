@@ -1,10 +1,11 @@
-## Olá! Sou o Pedro, bem-vindo! 👋
+## <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=267ABD&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Sou+o+Pedro,+seja+bem-vindo!+👋"/></h1>
+<br>
 
 - 🔭 Buscando uma vaga para Back-End
 - 🌱 Estudante de Engenharia de Software
 - 😄 Buscando novos conhecimentos de Java, Angular e AWS
 
-
+<br>
 <div>
   <a href="https://github.com/PedroHenriqueSilva3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueSilva3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
